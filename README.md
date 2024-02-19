@@ -38,7 +38,7 @@ In order to run the program follow the next steps:
 1. Open a terminal where this repository is located
 2. Execute the following instruction:
     ```
-    java .\src\main\java\AnagramProgram.java
+    java .\AnagramProgram.java
     ```
 3. The program will display 3 options to performs
     * Option A performs the feature #1
